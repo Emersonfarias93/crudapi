@@ -1,0 +1,5 @@
+br/com/emersonfarias/crudapi/model/Item.class
+br/com/emersonfarias/crudapi/service/ItemService.class
+br/com/emersonfarias/crudapi/controller/ItemController.class
+br/com/emersonfarias/crudapi/CrudapiApplication.class
+br/com/emersonfarias/crudapi/repository/ItemRepository.class

@@ -1,0 +1,5 @@
+/home/emersonsantos/Documentos/crudapi/src/main/java/br/com/emersonfarias/crudapi/CrudapiApplication.java
+/home/emersonsantos/Documentos/crudapi/src/main/java/br/com/emersonfarias/crudapi/controller/ItemController.java
+/home/emersonsantos/Documentos/crudapi/src/main/java/br/com/emersonfarias/crudapi/model/Item.java
+/home/emersonsantos/Documentos/crudapi/src/main/java/br/com/emersonfarias/crudapi/repository/ItemRepository.java
+/home/emersonsantos/Documentos/crudapi/src/main/java/br/com/emersonfarias/crudapi/service/ItemService.java
